@@ -1,4 +1,4 @@
-# Bit-Based-Division-Property-
+# Bit-Based-Division-Property-for-primitives-with-non-bit-permutation-linear-layers
 
 1. This repository includes the supporting material of the paper entitled 
 "MILP-aided bit-based division property for primitives with non-bit-permutation linear layers". 
